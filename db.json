@@ -1,0 +1,31 @@
+{
+  "historyData": [
+    {
+      "coordinates": {
+        "latitude": 53.8824775,
+        "longitude": 27.4408007
+      },
+      "address": "Беларусь, Минск, улица Шаранговича",
+      "date": "September 4th 2020, 12:07:59 pm",
+      "id": 1
+    },
+    {
+      "coordinates": {
+        "latitude": 53.8824775,
+        "longitude": 27.4408007
+      },
+      "address": "Беларусь, Минск, улица Шаранговича",
+      "date": "September 4th 2020, 12:09:33 pm",
+      "id": 2
+    },
+    {
+      "coordinates": {
+        "latitude": 53.8824775,
+        "longitude": 27.4408007
+      },
+      "address": "Беларусь, Минск, улица Шаранговича",
+      "date": "September 4th 2020, 12:09:42 pm",
+      "id": 3
+    }
+  ]
+}
